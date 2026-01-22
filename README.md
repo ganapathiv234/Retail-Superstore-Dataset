@@ -42,7 +42,9 @@ This dataset contains transactional sales order records including customer detai
 This dataset provides me a solid foundation for exploring sales, customer, and product analytics.  
 <img width="395" height="298" alt="image" src="https://github.com/user-attachments/assets/46c91131-97c6-481b-80a3-ea1b78e9a6ef" />
   
+**Conclusion:**
+  This dataset is a simple and flexible resource for practicing data analysis and visualization.  
+  It is meant to support learning, experimentation, and sharing within the data community.
 
-   
 .
 
